@@ -21,7 +21,7 @@ import android.widget.ScrollView;
  * @describe: [产品/模块版本]
  */
 public class HeadZoomScrollView extends ScrollView {
-
+    //测试提交
     private static final int MSG_REST_POSITION = 0x01;
     /** The max scroll height. */
     private static final int MAX_SCROLL_HEIGHT = 400;
